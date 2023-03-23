@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chillhub/static/css/main.b62ea404.css",
+    "main.js": "/chillhub/static/js/main.bbe9860a.js",
+    "index.html": "/chillhub/index.html",
+    "main.b62ea404.css.map": "/chillhub/static/css/main.b62ea404.css.map",
+    "main.bbe9860a.js.map": "/chillhub/static/js/main.bbe9860a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b62ea404.css",
+    "static/js/main.bbe9860a.js"
+  ]
+}
